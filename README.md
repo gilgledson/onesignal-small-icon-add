@@ -1,4 +1,5 @@
-# onesignal-small-icon-add
+# Intel XDK onesignal add small icon notification
+
 Esse plugin adiciona os small icons das notificações no onesignal no intel XDK
 
 acesse o link https://romannurik.github.io/AndroidAssetStudio/older-version/icons-notification.html
